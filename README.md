@@ -1,3 +1,4 @@
+Run npm install.
 For create the DB, pleas run this:
 
 ***
@@ -14,3 +15,5 @@ CREATE TABLE orders ( full_name varchar(255) NOT NULL, full_address varchar(255)
 
 user: 'root',
 password: 'root',
+
+Thanks!
